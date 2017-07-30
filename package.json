@@ -1,5 +1,5 @@
 {
-  "name": "E-Commerce-Talks",
+  "name": "e-commerce-talks",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
@@ -30,7 +30,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/anonymous node/sails user/E-Commerce-Talks.git"
+    "url": "git://github.com/felipej26/E-Commerce-Talks.git"
   },
   "author": "anonymous node/sails user",
   "license": ""
